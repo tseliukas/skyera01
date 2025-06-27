@@ -64,7 +64,7 @@ const Hero = () => {
               
               <button className="group inline-flex items-center justify-center bg-white/80 backdrop-blur-sm border-2 border-gray-200 text-gray-700 px-10 py-5 rounded-2xl hover:border-blue-300 hover:text-blue-700 hover:bg-white transition-all duration-300 font-semibold text-lg shadow-lg hover:shadow-xl">
                 <Play className="mr-3 h-6 w-6 group-hover:scale-110 transition-transform duration-300" />
-                Watch Demo
+                Watch!!!
               </button>
             </div>
 
