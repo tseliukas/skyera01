@@ -155,7 +155,7 @@ const Footer = () => {
               </div>
               <div>
                 <div className="text-sm font-semibold text-white">Email</div>
-                <div className="text-sm text-gray-400">hello@skyera.com</div>
+                <div className="text-sm text-gray-400">info@skyera.com</div>
               </div>
             </div>
             
