@@ -33,21 +33,21 @@ const Contact = () => {
     {
       icon: Mail,
       title: 'Email Us',
-      primary: 'hello@skyera.com',
+      primary: 'info@skyera.com',
       secondary: 'Response within 2 hours',
       color: 'blue'
     },
     {
       icon: Phone,
       title: 'Call Us',
-      primary: '+1 (555) 123-4567',
+      primary: '+44 20 3807 5777',
       secondary: '24/7 emergency support',
       color: 'teal'
     },
     {
       icon: MapPin,
       title: 'Visit Us',
-      primary: '123 Tech Boulevard, San Francisco, CA 94105',
+      primary: 'Hayworth House, Todd Close, Borehamwood',
       secondary: 'Monday - Friday, 9AM - 6PM PST',
       color: 'orange'
     }

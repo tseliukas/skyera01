@@ -165,7 +165,7 @@ const Footer = () => {
               </div>
               <div>
                 <div className="text-sm font-semibold text-white">Phone</div>
-                <div className="text-sm text-gray-400">+1 (555) 555-4567</div>
+                <div className="text-sm text-gray-400">+44 20 3807 5777</div>
               </div>
             </div>
             
@@ -175,7 +175,7 @@ const Footer = () => {
               </div>
               <div>
                 <div className="text-sm font-semibold text-white">Office</div>
-                <div className="text-sm text-gray-400">San Francisco, CA</div>
+                <div className="text-sm text-gray-400">London</div>
               </div>
             </div>
           </div>
